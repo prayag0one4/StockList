@@ -1,0 +1,12 @@
+reviews:
+  auto_review: true
+  review_level: thorough
+
+language:
+  javascript: true
+  typescript: true
+
+ignore:
+  - node_modules/**
+  - .next/**
+  - dist/**
